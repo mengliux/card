@@ -1,0 +1,11 @@
+<view class="card">
+  <image class="bg" src="../../img/bg.jpeg" mode="widthFix"></image>
+  <image class="logo" src="../../img/aaa.png"></image>
+
+  <view class="info">
+    <view class="name">xx</view>
+    <view class="desc">xxxxCEO</view>
+    <view>Tel: 186xxxx0486</view>
+    <view>Emil: 39xxxxx03@qq.com</view>
+  </view>
+</view>
